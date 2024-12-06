@@ -297,7 +297,7 @@ trueLabels = {};          % Cell array for true labels
 predictedLabels = {};     % Cell array for predicted labels
 
 % Define the test folder path
-testFolder = '/Users/ahmad/Desktop/Speech_Recognition/train';
+testFolder = '/Users/ahmad/Desktop/Speech_Recognition/Speech_Recognition_courseWork/train';
 subFolders = dir(testFolder);
 
 % Loop through each subfolder
